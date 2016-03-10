@@ -1,0 +1,30 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+timezone: Australia/Melbourne
+title: 'Site Title'
+email: my@email.com
+#phone: +61 123 456 789
+description: "This is my site desciption"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.example.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+#ello_username: null
+instagram_username: null
+github_username: jekyll
+
+## SOCIAL MEDIA CONNECTIONS
+twitter_cards: yes
+default_twitter_image: /assets/template/images/200x200.jpg
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+redirects: yes
+exclude:
