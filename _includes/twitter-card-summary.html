@@ -1,0 +1,11 @@
+    {% if site.twitter_username %}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="{{ site.twitter_username }}" />
+        <meta name="twitter:title" content="{{ page.title }}" />
+        <meta name="twitter:description" content="{{ page.excerpt | strip_html }}" />
+        {% if page.feature-image-src %}
+            <meta name="twitter:image" content="{{ site.url }}{{ page.feature-image-src }}" />
+        {% else if site.feature-image-src %}
+            <meta name="twitter:image" content="{{ site.url }}{{ site.default_twitter_image }}" />
+        {% endif %}
+    {% endif %}
