@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testing Page
+title: Tasting Page
 permalink: /test/
 published: true
 ---
