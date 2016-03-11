@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2016-01-01 12:00:00 +1100
+date:   2016-01-15 12:05:00 +1100
 categories: jekyll update
-feature-image-src: /assets/template/images/200x200.jpg
+feature-image-src: /assets/images/200x200.jpg
 feature-image-alt: The Feature Image
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

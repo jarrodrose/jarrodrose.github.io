@@ -7,20 +7,28 @@
 
 # Site settings
 timezone: Australia/Melbourne
-title: 'Site Title'
-email: my@email.com
-#phone: +61 123 456 789
-description: "This is my site desciption"
+title: 'JarrodRose [dot] Com'
+email: jarrod@jarrodrose.com
+#phone: +61 438 384 884
+description: > # this means to ignore newlines until "baseurl:"
+    Welcome to my website.
+    It contains nothing of import.
+    It is not a complex design.
+    It is just a repository for information.
+    Sounds a little like myself actually.
+    Except the part about information.
+    The site should have at least some useful information.
+    Whereas I only contain interesting, but useless information.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.example.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-#ello_username: null
-instagram_username: null
-github_username: jekyll
+url: "http://www.jarrodrose.com" # the base hostname & protocol for your site
+twitter_username: jarrodrose
+ello_username: jarrodrose
+instagram_username: jarrodrose
+#github_username: jarrodrose
 
 ## SOCIAL MEDIA CONNECTIONS
 twitter_cards: yes
-default_twitter_image: /assets/template/images/200x200.jpg
+default_twitter_image: /assets/site/images/default-twitter-image.jpg
 
 # Build settings
 markdown: kramdown
@@ -28,3 +36,5 @@ sass:
   style: compressed
 redirects: yes
 exclude:
+- deploy-dreamhost.sh
+- jarrodrose-com.sublime*
