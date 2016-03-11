@@ -2,7 +2,7 @@
 layout: page
 title: Testing Page
 permalink: /test/
-published: false
+published: true
 ---
 
 {% for postx in site.tags.quotes %}
