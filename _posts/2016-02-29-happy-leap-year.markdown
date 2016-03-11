@@ -3,7 +3,6 @@ layout: post
 title:  "Happy Leap Year Everyone"
 date:   2016-02-29T00:00:00+1100
 categories: blog
-tags: quotes
 ---
 
 That's right. We have reached that time again, where once every four years, we have an extra day in February.
