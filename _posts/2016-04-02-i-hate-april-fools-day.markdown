@@ -13,3 +13,7 @@ I'm not even complaining because someone/something tricked me. I never assume an
 from it being April 1st in Australia, to it being April 1st in Hawaii.
 
 It was cute to begin with internet. But I'm done. I'm also an old grump who should re-learn to relax and have fun.
+
+-----
+
+As a sidenote to this grump, it has been so long since I last worked on this and given that I don't really know git as well as I would like, I had forgotten how to push to github. Turns out I needed to re-add my ssh key locally so that it would remember how to do the stuff and things.
