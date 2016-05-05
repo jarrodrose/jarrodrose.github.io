@@ -18,7 +18,7 @@ I'm sure there are downsides, but it's okay for me at the moment. I don't really
 most secure thing hackers could get at is the information that is freely available via requesting the page
 from a standard web browser.
 
-[DREAMHOST][https://www.dreamhost.com/r.cgi?679301] - Give them a look if you want cheap hosting that has a
+[DREAMHOST](https://www.dreamhost.com/r.cgi?679301) - Give them a look if you want cheap hosting that has a
 lot of features and you are only making a website for yourself to play. Them might be good at bigger sites too,
 but I have not experience using them for that. (NOTE: This is a referal link. I will get a bonus if you sign up
 for a monthly plan or more. But I recommend them anyway for the reasons stated above. I use them. I actually think
