@@ -6,7 +6,6 @@ permalink: /links/
 
 ## Organisations
 
-* [ACAPTA - The Australian Circus and Physical Theatre Association](http://acapta.org.au/)
 * [Jayrow Photography](http://jayrow.photography/)
 
 ## Web Comics:
