@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<script type="text/javascript" src="/assets/template/js/instafeed.min.js"></script>
+
+<script type="text/javascript">
+    var userFeed = new Instafeed({
+        get: 'user',
+        userId: '3958631',
+        accessToken: '3958631.3c50d81.d2e8402d444c467495fd1c5d0a45472e',
+        limit: '12',
+        resolution: 'thumbnail'
+    });
+    userFeed.run();
+</script>
+
+<div width="100%" id="instafeed"></div>
+
+<p>SAMPLE</p>
