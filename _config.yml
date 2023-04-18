@@ -9,4 +9,6 @@ aux_links:
 
 heading_anchors: true
 
+permalink: pretty
+
 footer_content: "&copy; 2023 Jarrod Rose"
