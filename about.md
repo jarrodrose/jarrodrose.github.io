@@ -3,4 +3,4 @@ title: About
 layout: default
 ---
 
-This page should be able me.
+This page should be about me.
